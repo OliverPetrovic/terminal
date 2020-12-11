@@ -1,2 +1,3 @@
 # bot
-A discord bot
+A terminal discord bot, prefix $
+Try: $ls
